@@ -1,2 +1,4 @@
 # police_data_analysis
-Police data analysis project from The Guardian's dataset on victim metrics.
+Police data analysis project (statistics and data visualization) from The Guardian's dataset on various victim metrics.
+
+Collaborators: Kenton Kwok, Jordan Leung.
